@@ -1,0 +1,9 @@
+.v_block{
+    padding-bottom: 10px;
+}
+.v_block div{
+     font-size: 12px;
+}
+.v_block div p{
+    margin-bottom: 0;
+}
